@@ -1,5 +1,5 @@
 /**
- * Created by 傅令杰
+ * Created by ljq
  * 铅笔的基类
  */
 import { Sprite } from "../base/Sprite.js";

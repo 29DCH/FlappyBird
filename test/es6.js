@@ -1,6 +1,3 @@
-/**
- * Created by 傅令杰
- */
 class Animal {
 
     constructor(name = '无姓名', age = 0) {

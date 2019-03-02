@@ -1,5 +1,5 @@
 /**
- * Created by 傅令杰
+ * Created by ljq
  * 是用来模拟服务器，接受前端小游戏的HTTP网络请求
  * 通过node来模拟
  */

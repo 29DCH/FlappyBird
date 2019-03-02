@@ -1,5 +1,5 @@
 /**
- * Created by 傅令杰
+ * Created by ljq
  * 进行小游戏API的测试
  */
 export class ApiExamples {

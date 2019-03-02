@@ -1,5 +1,5 @@
 /**
- * Created by 傅令杰
+ * Created by ljq
  */
 (function () {
     'use strict';
