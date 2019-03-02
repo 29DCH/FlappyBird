@@ -1,6 +1,8 @@
 # FlappyBird
 微信小游戏FlappyBird
 
+主要思想为js的面向对象思想
+
 几个主要js的作用如下:
 
 game.js:游戏全局的入口文件,必须有的一个文件
