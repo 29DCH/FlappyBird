@@ -9,7 +9,7 @@
 	},
 	"compileType": "game",
 	"libVersion": "game",
-	"appid": "wx309ac50dcf54ed59",
+	"appid": "Your AppId",
 	"projectname": "FlappyBirdMiniGame",
 	"isGameTourist": true,
 	"condition": {
