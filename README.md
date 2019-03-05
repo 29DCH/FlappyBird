@@ -1,4 +1,8 @@
 # FlappyBird
+
+微信小游戏开发流程、注意事项、API等详情见微信开放社区、微信公众平台 https://developers.weixin.qq.com/miniprogram/dev/index.html
+
+
 微信小游戏FlappyBird
 
 主要思想为js的面向对象思想
@@ -39,3 +43,5 @@ StartButton.js:重新开始按钮类
 ![image](https://github.com/29DCH/FlappyBird/blob/master/img/1.png)
 
 ![image](https://github.com/29DCH/FlappyBird/blob/master/img/2.png)
+
+![image](https://github.com/29DCH/FlappyBird/blob/master/img/3.png)
